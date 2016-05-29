@@ -1,0 +1,8 @@
+E:\Users\Richard\Downloads\GalgjeC#\C#\hangman csharp\bin\Debug\hangman csharp.exe
+E:\Users\Richard\Downloads\GalgjeC#\C#\hangman csharp\bin\Debug\hangman csharp.pdb
+E:\Users\Richard\Downloads\GalgjeC#\C#\hangman csharp\obj\x86\Debug\hangman csharp.csprojResolveAssemblyReference.cache
+E:\Users\Richard\Downloads\GalgjeC#\C#\hangman csharp\obj\x86\Debug\hangman_csharp.Form1.resources
+E:\Users\Richard\Downloads\GalgjeC#\C#\hangman csharp\obj\x86\Debug\hangman_csharp.Properties.Resources.resources
+E:\Users\Richard\Downloads\GalgjeC#\C#\hangman csharp\obj\x86\Debug\hangman csharp.csproj.GenerateResource.Cache
+E:\Users\Richard\Downloads\GalgjeC#\C#\hangman csharp\obj\x86\Debug\hangman csharp.exe
+E:\Users\Richard\Downloads\GalgjeC#\C#\hangman csharp\obj\x86\Debug\hangman csharp.pdb
